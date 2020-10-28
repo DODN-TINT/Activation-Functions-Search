@@ -3,7 +3,7 @@
 
 # Activation-Functions-Search
 This is code for the article [over at ML From Scratch](https://mlfromscratch.com/activation-functions-explained/) on activation functions.
-I modified the original as presented by the author as follows:
+I modified the original as presented by the original author (Casper Hansen) as follows:
 
 1. Use of TensorBoard in comparing performance, accuracy and loss 
 2. Added some visualization on the sample MNIST data (might help some beginners who will look into these later)
